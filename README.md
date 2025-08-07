@@ -14,5 +14,5 @@ This system is built to handle carefully selected image-caption pairs, combining
 
 NOTE:
 
-We have included the sis.json file which is the training json file for VIST Story-in-sequence file, just renamed. The training images used were not attached due to its large size (13k images and around 23 GB). However, can be downloaded from VIST under then name train\_split0.tar.gz. Both files are also uploaded as Kaggle datasets for you to view if needed (ishaan\_iyer\_ii10/sis\_646 and ishaan\_iyer\_ii10/vist\_646).
+We have not included the sis.json file which is the training json file for VIST Story-in-sequence file. The training images used were not attached due to its large size (13k images and around 23 GB). However, can be downloaded from VIST under then name train\_split0.tar.gz. Both files are also uploaded as Kaggle datasets for you to view if needed (ishaan\_iyer\_ii10/sis\_646 and ishaan\_iyer\_ii10/vist\_646).
 
